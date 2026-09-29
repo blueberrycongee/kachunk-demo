@@ -1,6 +1,6 @@
 # KACHUNK! 咣当！ (web demo)
 
-**Play:** https://blueberrycongee.github.io/kachunk-demo/
+**Play:** http://www.lelekawaii.com/kachunk-demo/
 
 A lucky vending-machine roguelike: press one, get the whole bunch. Click any product and every
 same-colour product touching it tumbles out together; bigger groups are worth quadratically more.
