@@ -1,0 +1,367 @@
+{
+ "sfx": {
+  "coin": {
+   "file": "audio/sfx/coin.ogg",
+   "dur": 0.45,
+   "peak": -8.0,
+   "lufs": -16.9,
+   "bytes": 8005
+  },
+  "coins": {
+   "file": "audio/sfx/coins.ogg",
+   "dur": 0.8,
+   "peak": -8.0,
+   "lufs": -17.8,
+   "bytes": 14784
+  },
+  "vend": {
+   "file": "audio/sfx/vend.ogg",
+   "dur": 0.42,
+   "peak": -7.0,
+   "lufs": -18.6,
+   "bytes": 10162
+  },
+  "thunk": {
+   "file": "audio/sfx/thunk.ogg",
+   "dur": 0.18,
+   "peak": -9.0,
+   "lufs": -20.2,
+   "bytes": 6465
+  },
+  "clank": {
+   "file": "audio/sfx/clank.ogg",
+   "dur": 0.3,
+   "peak": -9.0,
+   "lufs": -23.1,
+   "bytes": 8188
+  },
+  "click": {
+   "file": "audio/sfx/click.ogg",
+   "dur": 0.02,
+   "peak": -12.0,
+   "lufs": -22.8,
+   "bytes": 4672
+  },
+  "relay": {
+   "file": "audio/sfx/relay.ogg",
+   "dur": 0.09,
+   "peak": -12.0,
+   "lufs": -29.3,
+   "bytes": 4970
+  },
+  "tick": {
+   "file": "audio/sfx/tick.ogg",
+   "dur": 0.06,
+   "peak": -12.0,
+   "lufs": -19.6,
+   "bytes": 5146
+  },
+  "ticks": {
+   "file": "audio/sfx/ticks.ogg",
+   "dur": 0.25,
+   "peak": -12.0,
+   "lufs": -21.0,
+   "bytes": 7773
+  },
+  "chime": {
+   "file": "audio/sfx/chime.ogg",
+   "dur": 1.3,
+   "peak": -6.0,
+   "lufs": -15.2,
+   "bytes": 22671
+  },
+  "ding": {
+   "file": "audio/sfx/ding.ogg",
+   "dur": 0.5,
+   "peak": -10.0,
+   "lufs": -18.4,
+   "bytes": 9103
+  },
+  "pop": {
+   "file": "audio/sfx/pop.ogg",
+   "dur": 0.09,
+   "peak": -10.0,
+   "lufs": -21.3,
+   "bytes": 5771
+  },
+  "poof": {
+   "file": "audio/sfx/poof.ogg",
+   "dur": 0.4,
+   "peak": -10.0,
+   "lufs": -25.3,
+   "bytes": 9562
+  },
+  "crack": {
+   "file": "audio/sfx/crack.ogg",
+   "dur": 0.5,
+   "peak": -4.0,
+   "lufs": -20.7,
+   "bytes": 12943
+  },
+  "crunch": {
+   "file": "audio/sfx/crunch.ogg",
+   "dur": 0.3,
+   "peak": -9.0,
+   "lufs": -25.4,
+   "bytes": 9768
+  },
+  "sparkle": {
+   "file": "audio/sfx/sparkle.ogg",
+   "dur": 0.7,
+   "peak": -10.0,
+   "lufs": -17.7,
+   "bytes": 13264
+  },
+  "slide": {
+   "file": "audio/sfx/slide.ogg",
+   "dur": 0.2,
+   "peak": -14.0,
+   "lufs": -24.6,
+   "bytes": 6989
+  },
+  "bell": {
+   "file": "audio/sfx/bell.ogg",
+   "dur": 1.3,
+   "peak": -9.0,
+   "lufs": -19.1,
+   "bytes": 22606
+  },
+  "sad": {
+   "file": "audio/sfx/sad.ogg",
+   "dur": 0.7,
+   "peak": -10.0,
+   "lufs": -20.8,
+   "bytes": 9419
+  },
+  "thump": {
+   "file": "audio/sfx/thump.ogg",
+   "dur": 0.35,
+   "peak": -7.0,
+   "lufs": -16.7,
+   "bytes": 8256
+  },
+  "tool": {
+   "file": "audio/sfx/tool.ogg",
+   "dur": 0.3,
+   "peak": -9.0,
+   "lufs": -19.8,
+   "bytes": 8127
+  },
+  "upgrade": {
+   "file": "audio/sfx/upgrade.ogg",
+   "dur": 1.4,
+   "peak": -6.0,
+   "lufs": -16.4,
+   "bytes": 25420
+  },
+  "fuse": {
+   "file": "audio/sfx/fuse.ogg",
+   "dur": 0.9,
+   "peak": -6.0,
+   "lufs": -20.9,
+   "bytes": 16728
+  },
+  "jingle": {
+   "file": "audio/sfx/jingle.ogg",
+   "dur": 1.8,
+   "peak": -5.0,
+   "lufs": -16.1,
+   "bytes": 32608
+  },
+  "fanfare": {
+   "file": "audio/sfx/fanfare.ogg",
+   "dur": 3.2,
+   "peak": -4.0,
+   "lufs": -14.6,
+   "bytes": 52423
+  },
+  "fail": {
+   "file": "audio/sfx/fail.ogg",
+   "dur": 1.6,
+   "peak": -5.0,
+   "lufs": -18.2,
+   "bytes": 14673
+  },
+  "achievement": {
+   "file": "audio/sfx/achievement.ogg",
+   "dur": 1.3,
+   "peak": -6.0,
+   "lufs": -16.1,
+   "bytes": 26832
+  },
+  "register": {
+   "file": "audio/sfx/register.ogg",
+   "dur": 1.0,
+   "peak": -5.0,
+   "lufs": -14.9,
+   "bytes": 18946
+  },
+  "ui_hover": {
+   "file": "audio/sfx/ui_hover.ogg",
+   "dur": 0.03,
+   "peak": -20.0,
+   "lufs": -26.5,
+   "bytes": 4605
+  },
+  "ui_click": {
+   "file": "audio/sfx/ui_click.ogg",
+   "dur": 0.05,
+   "peak": -12.0,
+   "lufs": -21.4,
+   "bytes": 5331
+  },
+  "ui_select": {
+   "file": "audio/sfx/ui_select.ogg",
+   "dur": 0.2,
+   "peak": -12.0,
+   "lufs": -21.5,
+   "bytes": 5970
+  },
+  "ui_back": {
+   "file": "audio/sfx/ui_back.ogg",
+   "dur": 0.2,
+   "peak": -12.0,
+   "lufs": -21.2,
+   "bytes": 5966
+  },
+  "ui_deny": {
+   "file": "audio/sfx/ui_deny.ogg",
+   "dur": 0.2,
+   "peak": -12.0,
+   "lufs": -19.1,
+   "bytes": 6510
+  },
+  "ui_open": {
+   "file": "audio/sfx/ui_open.ogg",
+   "dur": 0.45,
+   "peak": -11.0,
+   "lufs": -20.2,
+   "bytes": 9936
+  },
+  "ui_buy": {
+   "file": "audio/sfx/ui_buy.ogg",
+   "dur": 0.7,
+   "peak": -9.0,
+   "lufs": -20.4,
+   "bytes": 12457
+  },
+  "ui_reroll": {
+   "file": "audio/sfx/ui_reroll.ogg",
+   "dur": 0.55,
+   "peak": -10.0,
+   "lufs": -25.2,
+   "bytes": 13013
+  },
+  "ui_pick": {
+   "file": "audio/sfx/ui_pick.ogg",
+   "dur": 0.08,
+   "peak": -14.0,
+   "lufs": -23.3,
+   "bytes": 4916
+  },
+  "note_lo": {
+   "file": "audio/sfx/note_lo.ogg",
+   "dur": 0.9,
+   "peak": -6.0,
+   "lufs": -17.3,
+   "bytes": 12869
+  },
+  "note_hi": {
+   "file": "audio/sfx/note_hi.ogg",
+   "dur": 0.9,
+   "peak": -6.0,
+   "lufs": -18.1,
+   "bytes": 12827
+  },
+  "group": {
+   "file": "audio/sfx/group.ogg",
+   "dur": 0.3,
+   "peak": -12.0,
+   "lufs": -19.9,
+   "bytes": 7038
+  },
+  "zap": {
+   "file": "audio/sfx/zap.ogg",
+   "dur": 0.5,
+   "peak": -8.0,
+   "lufs": -16.7,
+   "bytes": 11684
+  },
+  "boom": {
+   "file": "audio/sfx/boom.ogg",
+   "dur": 0.7,
+   "peak": -6.0,
+   "lufs": -18.8,
+   "bytes": 15963
+  },
+  "sweep": {
+   "file": "audio/sfx/sweep.ogg",
+   "dur": 1.1,
+   "peak": -7.0,
+   "lufs": -15.9,
+   "bytes": 23944
+  },
+  "whoosh": {
+   "file": "audio/sfx/whoosh.ogg",
+   "dur": 0.45,
+   "peak": -10.0,
+   "lufs": -20.1,
+   "bytes": 10400
+  },
+  "drop": {
+   "file": "audio/sfx/drop.ogg",
+   "dur": 0.13,
+   "peak": -12.0,
+   "lufs": -26.0,
+   "bytes": 6091
+  },
+  "deal": {
+   "file": "audio/sfx/deal.ogg",
+   "dur": 1.0,
+   "peak": -9.0,
+   "lufs": -20.7,
+   "bytes": 19012
+  }
+ },
+ "music": {
+  "bed": {
+   "file": "audio/music/bed.ogg",
+   "dur": 45.7143,
+   "lufs": -25.0,
+   "peak": -13.1,
+   "bytes": 554925
+  },
+  "keys": {
+   "file": "audio/music/keys.ogg",
+   "dur": 45.7143,
+   "lufs": -23.0,
+   "peak": -7.6,
+   "bytes": 364979
+  },
+  "beat": {
+   "file": "audio/music/beat.ogg",
+   "dur": 45.7143,
+   "lufs": -24.0,
+   "peak": -6.6,
+   "bytes": 626083
+  },
+  "bass": {
+   "file": "audio/music/bass.ogg",
+   "dur": 45.7143,
+   "lufs": -25.0,
+   "peak": -17.7,
+   "bytes": 219743
+  },
+  "lead": {
+   "file": "audio/music/lead.ogg",
+   "dur": 45.7143,
+   "lufs": -26.0,
+   "peak": -13.1,
+   "bytes": 413290
+  }
+ },
+ "bpm": 84,
+ "loopSeconds": 45.714285714285715,
+ "bars": 16,
+ "mixLufs": -17.9
+}
